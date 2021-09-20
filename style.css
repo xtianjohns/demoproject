@@ -20,7 +20,8 @@ body {
 }
 
 p {
-  width: 400px;
+  display: flex;
+  justify-content: center;
   color: hotpink;
-  margin: 400px auto;
+  margin: 400px 0;
 }
